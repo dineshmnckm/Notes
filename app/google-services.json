@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "595449085475",
+    "firebase_url": "https://gonna-get-job-soon.firebaseio.com",
+    "project_id": "gonna-get-job-soon",
+    "storage_bucket": "gonna-get-job-soon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595449085475:android:78adca5e07daa336",
+        "android_client_info": {
+          "package_name": "com.example.lolz.notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595449085475-upncr21fr3o66mn18vhup49h98c9vibv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lolz.notes",
+            "certificate_hash": "b5718024050971391e915daa92fab166e36e439d"
+          }
+        },
+        {
+          "client_id": "595449085475-s7boe3b9cofqh1dd5d85igtm3151p5jk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGi6DhDW08EoVyhD0E8K55D5_BRtHa8bs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595449085475-s7boe3b9cofqh1dd5d85igtm3151p5jk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
